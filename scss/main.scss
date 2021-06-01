@@ -1,0 +1,15 @@
+/* variables */
+$nav:#dfe6e9;
+
+/* import */
+
+@import "_reset";
+@import "_header";
+@import "_main";
+@import "_footer";
+
+/* code */
+
+b {
+    text-transform: uppercase;
+}
